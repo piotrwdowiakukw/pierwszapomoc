@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pierwsza Pomoc Krok Po Kroku</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- OCEANA SYTUACJI -->
+    <string name="oceana_sytuacji_ocen_sytuacje">Nie podchodząc do osoby zapytaj z odległości:</string>
+    <string name="oceana_sytuacji_wolanie_1">- Czy coś się stało?</string>
+    <string name="oceana_sytuacji_wolanie_2">- Czy mogę jakoś pomóc? </string>
+    <string name="oceana_sytuacji_jest_reakcja">reaguje i potrzebna pomoc</string>
+    <string name="oceana_sytuacji_brak_reakcji">nie reaguje</string>
+
+    <!-- OCEANA BEZPIECZENSTWA -->
+    <string name="ocena_bezpieczenstwa">Podejdź bliżej oceniając czy nic ci nie zagraża:</string>
+    <string name="ocena_bezpieczenstwa_punkt_1">- Spójrz w górę, czy nic nie spadnie ci na głowę</string>
+    <string name="ocena_bezpieczenstwa_punkt_2">- Spójrz pod nogi, czy nic nie jest rozbite lub rozlane</string>
+    <string name="ocena_bezpieczenstwa_punkt_3">- Rozejrzyj się, czy nie widzisz podejrzanych ludzi lub zwierząt</string>
+    <string name="ocena_bezpieczenstwa_punkt_4">- Jeżeli masz rękawiczki załóż je</string>
+    <string name="ocena_bezpieczenstwa_jest_bezpiecznie">jest bezpiecznie</string>
+    <string name="ocena_bezpieczenstwa_nie_bezpiecznie"> nie jest bezpiecznie </string>
+
+    <!-- OCENA PRZYTOMNOŚCI -->
+    <string name="ocena_przytomnosci_polecenie">Oceń przytomność: </string>
+    <string name="ocena_przytomnosci_punkt_2">- Delikatnie potrząśnij za bark i zawołaj: co się stało? Jak mogę pomóc?</string>
+    <string name="ocena_przytomnosci_punkt_reaguje">reaguje</string>
+    <string name="ocena_przytomnosci_punkt_nie_reaguje">nie reaguje</string>
+
+    <!-- OCENA ODDECHU -->
+    <string name="ocena_oddechu_naglowek">Zawołaj pomoc, sprawdź oddech: </string>
+    <string name="ocena_oddechu_polecenie">- Zawołaj o pomoc, gdy w koło jest więcej ludzi poproś jednego z nich o pozostanie z Tobą</string>
+    <string name="ocena_oddechu_punkt_2">- Odchyl głowę poszkodowanego do tyłu</string>
+    <string name="ocena_oddechu_punkt_3">- Policz spokojnie do 10 starając się wyczuć oddech. Czy go czujesz, widzisz lub słyszysz?</string>
+    <string name="ocena_oddechu_oddycha">oddycha</string>
+    <string name="ocena_oddechu_nie_oddycha">nie oddycha</string>
+
+    <!-- BRAK ODDECHU -->
+    <string name="brak_oddechu_polecenie">Zadzwoń po pomoc pod numer 999 lub 112, powiedz</string>
+    <string name="brak_oddechu_punkt_1">- Jak się nazywasz</string>
+    <string name="brak_oddechu_punkt_2">- Gdzie jesteś</string>
+    <string name="brak_oddechu_punkt_3">- Poszkodowany nie oddycha!</string>
+    <string name="brak_oddechu_czy_widzisz_defibrylator">- Czy widzisz w pobliżu taki znak defibrylatora?</string>
+    <string name="brak_oddechu_punkt_widze">widzę</string>
+    <string name="brak_oddechu_punkt_nie_widze">nie widzę</string>
+
+    <!-- RESUSCYTACJA -->
+    <string name="resuscytacja_polecenie">Wykonaj resuscytacje: </string>
+    <string name="resuscytacja_polecenie_1">- Odsłoń klatkę piersiową poszkodowanego</string>
+    <string name="resuscytacja_polecenie_2">- Połóż dłonie na mostku, na środku klatki piersiowej</string>
+    <string name="resuscytacja_polecenie_3">- Uciskaj na głębokość ok. 5-6 cm z częstotliwością 100-120 uciśnięć na minutę</string>
+    <string name="resuscytacja_polecenie_4">- Jeśli masz maseczkę po 30 uciśnięciach zrób dwa wdechy, jeśli nie masz kontynuuj uciski</string>
+    <string name="resuscytacja_polecenie_przerwanie">Uciskaj do momentu: </string>
+    <string name="resuscytacja_polecenie_przerwanie_1">- Przyjazdu pogotowia</string>
+    <string name="resuscytacja_polecenie_przerwanie_2">- Poważnie się zmęczysz</string>
+    <string name="resuscytacja_polecenie_przerwanie_3">- Zostanie przyniesione AED</string>
+    <string name="resuscytacja_polecenie_przerwanie_4">- Zobaczysz ruch lub usłyszysz jęk poszkodowanego</string>
+    <string name="resuscytacja_polecenie_przerwanie_5">- Stanie się niebezpiecznie, np. pojawi się groźny pies</string>
+    <string name="resuscytacja_przyjazd_pomocy">przyjechała pomoc</string>
+    <string name="resuscytacja_poszkodowany_reaguje">poszkodowany zareagował</string>
+     <string name="resuscytacja_dotarlo_aed">dotarł defibrylator</string>
+
+    <!-- JEST REAKCJA -->
+    <string name="jest_reakcja_polecenie">- Postępuj zgodnie z tym co się dowiedziałeś:</string>
+    <string name="jest_reakcja_nic_mu_nie_jest">- Jeżeli nic mu nie jest to możesz go zostawić</string>
+    <string name="jest_reakcja_jezeli_potrzebuje_pomocy">- Jeżeli potrzebuje pomocy:</string>
+    <string name="jest_reakcja_potrzebuje_pomocy">potrzebuje pomocy</string>
+    <string name="jest_reakcja_krwawi">krwawi</string>
+
+    <!-- WZYWANIE POMOCY -->
+    <string name="wzywanie_pomocy_pytanie"> Zapytaj co mu jest i czy coś go boli </string>
+    <string name="wzywanie_pomocy_polecenie">Wezwij pomoc:</string>
+    <string name="wzywanie_pomocy_polecenie_1">- Zadzwoń pod numer 999 lub 112, pamiętaj żeby powiedzieć: </string>
+    <string name="wzywanie_pomocy_polecenie_2">- Gdzie jesteś </string>
+    <string name="wzywanie_pomocy_polecenie_3">- Co się stało</string>
+    <string name="wzywanie_pomocy_polecenie_4">- W jakim stanie jest poszkodowany </string>
+    <string name="wzywanie_pomocy_polecenie_5">- Pomóż poszkodowanemu przyjąć najwygodniejsza dla niego pozycję </string>
+    <string name="wzywanie_pomocy_polecenie_6">- Zapytaj czy przyjmuje jakieś leki, które mogą mu w tej chwili pomóc, jeżeli ma je przy sobie pomóż mu je przyjąć</string>
+    <string name="wzywanie_pomocy_polecenie_7">- Czekaj na przyjazd pogotowia rozmawiając z poszkodowanym  </string>
+    <string name="wzywanie_pomocy_polecenie_stracilem_kontakt">Straciłem kontakt z poszkodowanym</string>
+    <string name="wzywanie_pomocy_polecenie_przyjechalo_pogotowie">Przyjechało pogotowie</string>
+
+    <!-- KRAWIENIE -->
+
+	<string name="krwawienie_polecenie">Zatrzymaj krwawienie: </string>
+    <string name="krawienie_polecenie_1">- Pamiętaj o własnym bezpieczeństwie! Zadbaj aby Twoja skóra nie miała kontaktu z krwią poszkodowanego (gumowe rękawiczki, torebka foliowa) </string>
+    <string name="krawienie_polecenie_2">- Poszukaj miejsca krwawienia</string>
+    <string name="krawienie_polecenie_3">- Poszukaj opatrunku: (apteczka samochodowa, bandaże, ubranie poszkodowanego)</string>
+    <string name="krawienie_polecenie_4">- Zrób opatrunek w miejscu krwawienia</string>
+	<string name="krawawienie_button_utrata_kontaktu">straciłem kontakt</string>
+	<string name="krwawienie_button_zrobione">zrobione</string>
+    <!-- OBECNY ODDECH -->
+
+    <string name="obecny_oddech_polecenie_">Ułóż poszkodowanego w pozycji bocznej</string>
+    <string name="obecny_oddech_polecenie_1">Co minutę sprawdzaj oddech, cały czas obserwuj poszkodowanego</string>
+    <string name="obecny_oddech_polecenie_2">Nakryj poszkodowanego jeżeli masz czym</string>
+    <string name="obecny_oddech_polecenie_3">Działaj do przyjazdu pogotowia</string>
+    <string name="obecny_oddech_button_przestal_oddychac">przestał oddychać</string>
+    <string name="obecny_oddech_button_przyjazd_pogotowia">przyjechało pogotowie</string>
+
+    <!-- JEST AED -->
+    <string name="jest_aed_header">Poślij po defibrylator: </string>
+    <string name="jest_aed_polecenie">- Wyślij kogoś po defibrylator a sam przejdz do resuscytacji</string>
+    <string name="jest_aed_button_resuscytacja">Resuscytacja</string>
+    
+    <!-- DOTARŁO AED -->
+    <string name="dotarlo_aed_polecenie">Włącz urządzenie</string>
+	<string name="dotarlo_aed_polecenie_1">- Postępuj zgodnie z poleceniami urządzenia</string>
+  	<string name="dotarlo_aed_polecenie_2">- Działaj do przyjazdu pogotowia i przejęcia poszkodowanego</string>
+	<string name="dotarlo_aed_jest_reakcja">Poszkodowany zareagował</string>
+    <string name="dotarlo_aed_przyjazd_sluzb">Przyjechała pomoc</string>
+	
+    <!-- ROZMOWA Z POSZKODOWANYM -->
+    <string name="rozmowa_z_poszkodowany_ocen_problem">Oceń problem: </string>
+    <string name="rozmowa_z_poszkodowanym_pytanie">- Zapytaj co mu jest i czy coś go boli</string>
+    <string name="rozmowa_z_poszkodowanym_czy_krwawi">- Czy widzisz przy nim krew? </string>
+    <string name="rozmowa_z_poszkodowanym_krwawi">krwawi</string>
+    <string name="rozmowa_z_poszkodowanym_inny_problem">inny problem</string>
+
+    
+    <!-- NIE JEST BEZPIECZNIE -->
+    <string name="nie_jest_bezpiecznie_polecenie_1">Oddal się na bezpieczną odległość</string>
+    <string name="nie_jest_bezpiecznie_zadzwon_na_policje">- Zadzwoń na 997 lub 112</string>
+    <string name="nie_jest_bezpiecznie_polecenie_2">- Jeżeli to możliwe obserwuj zdarzenie z odległości</string>
+	<string name="nie_jest_bezpiecznie_polecenie_polecenia">- Postępuj zgodnie z poleceniami dyspozytora</string>
+    <string name="nie_jest_bezpiecznie_zmiana_otoczenia">jest już bezpiecznie</string>
+    <string name="nie_jest_bezpiecznie_przyjazd_policji">przyjechała policja</string>
+    
+    
+    <!-- POZYCJA BOCZNA -->
+    
+    <string name="pozycja_boczna_polecenie">- Ułóż poszkodowanego w pozycji bocznej</string>
+    <string name="pozycja_boczna_polecenie_2">- Co minutę sprawdzaj oddech i stale obserwuj poszkodowanego</string>
+    <string name="pozycja_boczna_okryj">- Jeżeli masz czym, okryj poszkodowanego (np. bluzą, kocem, kurtką)</string>
+    <string name="pozycja_boczna_okryj_1">- Jeżeli masz czym, okryj poszkodowanego (np. bluzą, kocem, kurtką)</string>
+    <string name="pozycja_boczna_polecenie_3">- Działaj do przyjazdu pogotowia i przejęcia poszkodowanego</string>
+    <string name="pozycja_boczna_opis_rysunku_2"></string>
+    <string name="pozycja_boczna_opis_rysunku_3"></string>
+	
+    <!-- OGOLENE -->
+    <string name="przyjechalo_pogotowie">przyjechała pomoc</string>
+    <string name="stracil_oddech">stracił oddech</string>
+    
+    <!-- JEST ODDECH -->
+    <string name="jest_oddech_polecenie_1">Obejrzyj poszkodowanego:</string>
+    <string name="jest_oddech_polecenie_2">- Czy widzisz obok niego krew? </string>
+	<string name="jest_oddech_widze_krew">widzę krew</string>
+    <string name="jest_oddech_nie_ma_krwi">nie ma krwi</string>
+    
+    <!-- PRZYJAZD SLOZB -->
+    <string name="przyjazd_pogotowia_polecenie_1">Przekaż poszkodowanego odpowiednim służbom</string>
+    <string name="przyjazd_pogotowia_polecenie_2">- Postępuj zgodnie z ich poleceniami</string>
+    <string name="przyjazd_pogotiwa_do_ekranu_glownego">do ekranu głównego</string>
+	
+</resources>

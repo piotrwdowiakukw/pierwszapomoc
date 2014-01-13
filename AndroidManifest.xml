@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.piotrwdowiak.pierwszapomockrokpokroku"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat.Light" >
+        <activity
+            android:name="com.piotrwdowiak.pierwszapomockrokpokroku.ActivityStartowe"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.piotrwdowiak.pierwszapomockrokpokroku.BrakOddechu"
+            android:label="Wzywanie Pomocy" >
+        </activity>
+        <activity android:name="com.piotrwdowiak.pierwszapomockrokpokroku.OcenaOddechu" >
+        </activity>
+        <activity android:name="com.piotrwdowiak.pierwszapomockrokpokroku.OcenaPrzytomnosci" >
+        </activity>
+        <activity
+            android:theme="@style/Theme.AppCompat.Light"
+            android:name="com.piotrwdowiak.pierwszapomockrokpokroku.OcenaSytuacji"
+            android:label="Ocena sytuacji"
+            android:parentActivityName="com.piotrwdowiak.pierwszapomockrokpokroku.ActivityStartowe" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.myfirstapp.MainActivity" />
+        </activity>
+        <activity android:name="com.piotrwdowiak.pierwszapomockrokpokroku.OcenaBezpieczenstwa" >
+        </activity>
+        <activity android:name="com.piotrwdowiak.pierwszapomockrokpokroku.Resuscytacja" >
+        </activity>
+        <activity android:name="com.piotrwdowiak.pierwszapomockrokpokroku.RozmowaZPoszkodowanym" >
+        </activity>
+        <activity android:name="com.piotrwdowiak.pierwszapomockrokpokroku.JestReakcja" >
+        </activity>
+        <activity android:name="com.piotrwdowiak.pierwszapomockrokpokroku.WzywaniePomocy" >
+        </activity>
+        <activity android:name="com.piotrwdowiak.pierwszapomockrokpokroku.NieJestBezpiecznie" >
+        </activity>
+        <activity android:name="com.piotrwdowiak.pierwszapomockrokpokroku.JestAED" >
+        </activity>
+        <activity android:name="com.piotrwdowiak.pierwszapomockrokpokroku.PozycjaBoczna" >
+        </activity>
+        <activity android:name="com.piotrwdowiak.pierwszapomockrokpokroku.PrzyjazdSluzb" >
+        </activity>
+        <activity android:name="com.piotrwdowiak.pierwszapomockrokpokroku.Krwawienie" >
+        </activity>
+        <activity android:name="com.piotrwdowiak.pierwszapomockrokpokroku.JestOddech" >
+        </activity>
+         <activity android:name="com.piotrwdowiak.pierwszapomockrokpokroku.DotarloAED" >
+        </activity>
+    </application>
+
+</manifest>
